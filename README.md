@@ -1,2 +1,2 @@
-# ByMeADrink
+# B(u)yMeADrink
 Student project
